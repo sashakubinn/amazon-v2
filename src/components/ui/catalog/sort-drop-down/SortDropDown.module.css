@@ -1,0 +1,6 @@
+.container {
+	@apply text-secondary mb-6 text-right;
+}
+.wrapper {
+	@apply w-32 text-center rounded-md appearance-none py-1 px-2;
+}

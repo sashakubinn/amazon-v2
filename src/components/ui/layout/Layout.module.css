@@ -1,0 +1,7 @@
+.sidebar {
+	@apply grid;
+}
+
+.child {
+	@apply p-10;
+}

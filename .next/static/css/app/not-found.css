@@ -1,0 +1,25 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./src/components/ui/heading/Heading.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nosifer&family=Playfair+Display:ital@0;1&display=swap');
+
+.Heading_heading_2xl__sVYrs{
+	font-size: 1.5rem;
+	line-height: 2rem
+}
+.Heading_heading_3xl__FTRfW{
+	font-size: 2.25rem;
+	line-height: 2.5rem;
+	letter-spacing: 0.05em;
+	--tw-text-opacity: 1;
+	color: rgb(255 255 255 / var(--tw-text-opacity))
+}
+
+.Heading_heading__VIbT0{
+	margin-bottom: 1.5rem;
+	margin-top: 1rem;
+	text-align: center;
+	font-weight: 500;
+	font-family: 'Playfair Display', serif
+}
+

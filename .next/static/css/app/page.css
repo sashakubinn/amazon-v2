@@ -1,0 +1,367 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./src/components/ui/heading/Heading.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Nosifer&family=Playfair+Display:ital@0;1&display=swap');
+
+.Heading_heading_2xl__sVYrs{
+	font-size: 1.5rem;
+	line-height: 2rem
+}
+.Heading_heading_3xl__FTRfW{
+	font-size: 2.25rem;
+	line-height: 2.5rem;
+	letter-spacing: 0.05em;
+	--tw-text-opacity: 1;
+	color: rgb(255 255 255 / var(--tw-text-opacity))
+}
+
+.Heading_heading__VIbT0{
+	margin-bottom: 1.5rem;
+	margin-top: 1rem;
+	text-align: center;
+	font-weight: 500;
+	font-family: 'Playfair Display', serif
+}
+
+/*!**************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./src/components/ui/button/Button.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************/
+.Button_default__JXmqr {
+
+    margin-left: 1rem;
+
+    margin-right: 1rem;
+
+    margin-top: 1rem;
+
+    border-radius: 1rem;
+
+    padding-left: 3rem;
+
+    padding-right: 3rem;
+
+    padding-top: 0.75rem;
+
+    padding-bottom: 0.75rem;
+
+    font-weight: 550;
+
+    --tw-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+
+    --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);
+
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)
+}
+
+.Button_small__2s0k4 {
+
+    margin: 1rem;
+
+    margin-top: 1rem;
+
+    border-radius: 1rem;
+
+    padding-left: 1.5rem;
+
+    padding-right: 1.5rem;
+
+    padding-top: 0.75rem;
+
+    padding-bottom: 0.75rem;
+
+    font-size: 1.125rem;
+
+    line-height: 1.75rem;
+
+    font-weight: 550;
+
+    --tw-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+
+    --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);
+
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)
+}
+
+.Button_button_orange__PVKlT {
+
+    --tw-bg-opacity: 1;
+
+    background-color: rgb(255 153 2 / var(--tw-bg-opacity));
+
+    --tw-text-opacity: 1;
+
+    color: rgb(255 255 255 / var(--tw-text-opacity))
+}
+
+.Button_button_white__rxodV {
+
+    --tw-bg-opacity: 1;
+
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+
+    font-size: 1.125rem;
+
+    line-height: 1.75rem;
+
+    --tw-text-opacity: 1;
+
+    color: rgb(255 153 2 / var(--tw-text-opacity))
+}
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[12].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[12].oneOf[9].use[5]!./src/components/ui/carousel/Carousel.module.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Carousel_container__NZ4GO {
+  position: relative;
+  z-index: 10;
+  margin-bottom: 2.5rem;
+}
+
+.Carousel_item__zYVka {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 0.75rem;
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 153 2 / var(--tw-bg-opacity));
+  background-repeat: no-repeat;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  padding-top: 1.5rem;
+  padding-bottom: 2rem;
+  --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  background-position: top 13% right -3%;
+  background-size: 50%;
+}
+
+.Carousel_item__zYVka > h2 {
+  margin-bottom: 0.5rem;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  font-weight: 600;
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  --tw-drop-shadow: drop-shadow(0 1px 2px rgb(0 0 0 / 0.1)) drop-shadow(0 1px 1px rgb(0 0 0 / 0.06));
+  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
+  animation: Carousel_slideFromLeft__KjNiF 0.5s linear;
+}
+
+.Carousel_item__zYVka > p {
+  margin-bottom: 1.5rem;
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  max-width: 38%;
+  animation: Carousel_slideFromLeft__KjNiF 0.6s linear;
+}
+
+.Carousel_item__zYVka > a {
+  animation: Carousel_slideFromLeft__KjNiF 0.7s linear;
+}
+
+.Carousel_nav__kHW3L {
+  position: absolute;
+  right: 2.5rem;
+  top: 1.5rem;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+
+.Carousel_nav__kHW3L > button {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+  --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+  transition-duration: 300ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.Carousel_nav__kHW3L > button:hover {
+  --tw-text-opacity: 1;
+  color: rgb(38 134 151 / var(--tw-text-opacity));
+}
+
+.Carousel_nav__kHW3L > button:first-child {
+  margin-right: 1.25rem;
+}
+
+.Carousel_item-enter__zoXy0 {
+  opacity: 0;
+  transform: scale(0.9);
+}
+
+.Carousel_item-enter-active__bRW0Q {
+  opacity: 1;
+  transform: translateX(0);
+  transition: opacity 300ms, transform 300ms;
+}
+
+.Carousel_item-exit__Jfqr_ {
+  opacity: 1;
+}
+
+.Carousel_item-exit-active__eHkJT {
+  opacity: 0;
+  transform: scale(0.9);
+  transition: opacity 300ms, transform 300ms;
+}
+
+@keyframes Carousel_slideFromLeft__KjNiF {
+  from {
+    transform: translateX(-200px);
+    opacity: 0.2;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+.Carousel_transition__DSbf_ {
+  position: relative;
+  height: 14rem;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./src/components/ui/catalog/product-items/add-to-cart/AddToCart.module.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************/
+.AddToCart_color__DUlPV {
+    --tw-text-opacity: 1;
+    color: rgb(22 29 37 / var(--tw-text-opacity))
+}
+
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./src/components/ui/catalog/product-items/favorite-button/FavoriteButton.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.FavoriteButton_color__l6ojO {
+    --tw-text-opacity: 1;
+    color: rgb(255 153 2 / var(--tw-text-opacity))
+}
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./src/components/ui/catalog/product-items/product-rating/ProductRating.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.ProductRating_ml__XHXZU {
+    margin-left: 1rem;
+    font-size: 1rem;
+    line-height: 1.5rem
+}
+.ProductRating_xs__gXOBn {
+    font-size: 0.75rem;
+    line-height: 1rem
+}
+
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./src/components/ui/catalog/product-items/product-item/ProductItem.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************/
+@keyframes ProductItem_scale-in__h903H {
+	from {
+		transform: scale(0);
+		opacity: 0;
+	}
+	to {
+		transform: scale(1);
+		opacity: 1;
+	}
+}
+
+.ProductItem_scale-in__h903H {
+	animation: ProductItem_scale-in__h903H 0.3s ease-out;
+}
+.ProductItem_image__Xxbfg {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.ProductItem_container__ON1L_ {
+	margin-bottom: 1.5rem;
+	transform-origin: center;
+	transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+	transition-property: transform;
+	transition-duration: 300ms;
+	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+	animation: ProductItem_scale-in__h903H 0.3s ease-out;
+}
+
+.ProductItem_name__siSi0 {
+	margin-top: 0.5rem;
+	font-size: 1.25rem;
+	line-height: 1.75rem;
+	font-weight: 600;
+}
+.ProductItem_wrapper__6xeVk {
+	position: relative;
+	overflow: hidden;
+	border-radius: 0.75rem;
+	--tw-bg-opacity: 1;
+	background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+.ProductItem_category__gbK9C {
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	font-size: 0.875rem;
+	line-height: 1.25rem;
+	--tw-text-opacity: 1;
+	color: rgb(38 134 151 / var(--tw-text-opacity));
+}
+.ProductItem_icons__8rVSR {
+	position: absolute;
+	top: 0.5rem;
+	right: 0.75rem;
+	z-index: 1;
+}
+
+.ProductItem_price__HZPNK {
+	font-size: 1.5rem;
+	line-height: 2rem;
+	font-weight: 700;
+}
+
+.ProductItem_rating__UJf1T {
+	margin-top: 0.5rem;
+	margin-bottom: 1rem;
+}
+
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./src/components/ui/catalog/sort-drop-down/SortDropDown.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************/
+.SortDropDown_container__gtjgP {
+    margin-bottom: 1.5rem;
+    text-align: right;
+    --tw-text-opacity: 1;
+    color: rgb(22 29 37 / var(--tw-text-opacity))
+}
+.SortDropDown_wrapper__kJH1R {
+    width: 8rem;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+    border-radius: 0.375rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    text-align: center
+}
+
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./src/components/ui/catalog/CatalogPagination.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************/
+.CatalogPagination_container__HT7uf {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 2.75rem
+}
+.CatalogPagination_btn_center__dN6b_ {
+    margin-top: 3rem;
+    text-align: center
+}
+
